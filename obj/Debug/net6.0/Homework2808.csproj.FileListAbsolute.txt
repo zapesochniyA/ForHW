@@ -1,0 +1,15 @@
+C:\Lessons\HomeWorks\Homework2808\bin\Debug\net6.0\Homework2808.exe
+C:\Lessons\HomeWorks\Homework2808\bin\Debug\net6.0\Homework2808.deps.json
+C:\Lessons\HomeWorks\Homework2808\bin\Debug\net6.0\Homework2808.runtimeconfig.json
+C:\Lessons\HomeWorks\Homework2808\bin\Debug\net6.0\Homework2808.dll
+C:\Lessons\HomeWorks\Homework2808\bin\Debug\net6.0\Homework2808.pdb
+C:\Lessons\HomeWorks\Homework2808\obj\Debug\net6.0\Homework2808.csproj.AssemblyReference.cache
+C:\Lessons\HomeWorks\Homework2808\obj\Debug\net6.0\Homework2808.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\HomeWorks\Homework2808\obj\Debug\net6.0\Homework2808.AssemblyInfoInputs.cache
+C:\Lessons\HomeWorks\Homework2808\obj\Debug\net6.0\Homework2808.AssemblyInfo.cs
+C:\Lessons\HomeWorks\Homework2808\obj\Debug\net6.0\Homework2808.csproj.CoreCompileInputs.cache
+C:\Lessons\HomeWorks\Homework2808\obj\Debug\net6.0\Homework2808.dll
+C:\Lessons\HomeWorks\Homework2808\obj\Debug\net6.0\refint\Homework2808.dll
+C:\Lessons\HomeWorks\Homework2808\obj\Debug\net6.0\Homework2808.pdb
+C:\Lessons\HomeWorks\Homework2808\obj\Debug\net6.0\Homework2808.genruntimeconfig.cache
+C:\Lessons\HomeWorks\Homework2808\obj\Debug\net6.0\ref\Homework2808.dll
